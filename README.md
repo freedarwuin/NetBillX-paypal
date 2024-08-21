@@ -1,24 +1,23 @@
-# Payment Gateway [Paypal](https://paypal.me/ibnux)
+# Pasarela de Pago [Paypal](https://paypal.me/freedarwuin)
 
-Payment Gateway [Paypal](https://paypal.me/ibnux) for PHPNuxBill
+Pasarela de Pago [Paypal](https://paypal.me/freedarwuin) para NetBillX
 
-[Download](https://github.com/hotspotbilling/phpnuxbill-paypal/archive/refs/heads/main.zip)
+[Descargar](https://github.com/freedarwuin/NetBillX-paypal/archive/refs/heads/main.zip)
 
-## Installation
+## Instalación
 
-Copy **paypal.php** and **paypal_currency.json** to folder **system/paymentgateway/**
+Copia **paypal.php** y **paypal_currency.json** en la carpeta **system/paymentgateway/**
 
-Copy **ui/paypal.tpl** to folder **system/paymentgateway/ui/**
+Copia **ui/paypal.tpl** en la carpeta **system/paymentgateway/ui/**
 
+## Autor
 
-## Author
+[Ibnu Maksum aka freedarwuin](https://github.com/freedarwuin)
 
-[Ibnu Maksum aka ibnux](https://github.com/ibnux)
+## Donaciones
 
-## Donations
-
-### International
-[Github Sponsor](https://github.com/sponsors/ibnux)
+### Internacional
+[Github Sponsor](https://github.com/sponsors/freedarwuin)
 
 ### Indonesia
-[Trakteer iBNuX](https://trakteer.id/ibnux)
+[Trakteer freedarwuin](https://trakteer.id/freedarwuin)
