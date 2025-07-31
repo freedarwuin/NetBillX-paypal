@@ -1,32 +1,31 @@
 [
-
 	{
 		"id": "USD",
-		"name": "United States dollar"
+		"name": "Dólar estadounidense"
 	},
 	{
 		"id": "AUD",
-		"name": "Australian dollar"
+		"name": "Dólar australiano"
 	},
 	{
 		"id": "BRL",
-		"name": "Brazilian real **"
+		"name": "Real brasileño **"
 	},
 	{
 		"id": "CAD",
-		"name": "Canadian dollar"
+		"name": "Dólar canadiense"
 	},
 	{
 		"id": "CNY",
-		"name": "Chinese Renmenbi ***"
+		"name": "Renminbi chino ***"
 	},
 	{
 		"id": "CZK",
-		"name": "Czech koruna"
+		"name": "Corona checa"
 	},
 	{
 		"id": "DKK",
-		"name": "Danish krone"
+		"name": "Corona danesa"
 	},
 	{
 		"id": "EUR",
@@ -34,70 +33,70 @@
 	},
 	{
 		"id": "HKD",
-		"name": "Hong Kong dollar"
+		"name": "Dólar de Hong Kong"
 	},
 	{
 		"id": "HUF",
-		"name": "Hungarian forint *"
+		"name": "Forinto húngaro *"
 	},
 	{
 		"id": "ILS",
-		"name": "Israeli new shekel"
+		"name": "Nuevo séquel israelí"
 	},
 	{
 		"id": "JPY",
-		"name": "Japanese yen *"
+		"name": "Yen japonés *"
 	},
 	{
 		"id": "MYR",
-		"name": "Malaysian ringgit ***"
+		"name": "Ringgit malayo ***"
 	},
 	{
 		"id": "MXN",
-		"name": "Mexican peso"
+		"name": "Peso mexicano"
 	},
 	{
 		"id": "TWD",
-		"name": "New Taiwan dollar *"
+		"name": "Nuevo dólar de Taiwán *"
 	},
 	{
 		"id": "NZD",
-		"name": "New Zealand dollar"
+		"name": "Dólar neozelandés"
 	},
 	{
 		"id": "NOK",
-		"name": "Norwegian krone"
+		"name": "Corona noruega"
 	},
 	{
 		"id": "PHP",
-		"name": "Philippine peso"
+		"name": "Peso filipino"
 	},
 	{
 		"id": "PLN",
-		"name": "Polish złoty"
+		"name": "Złoty polaco"
 	},
 	{
 		"id": "GBP",
-		"name": "Pound sterling"
+		"name": "Libra esterlina"
 	},
 	{
 		"id": "RUB",
-		"name": "Russian ruble"
+		"name": "Rublo ruso"
 	},
 	{
 		"id": "SGD",
-		"name": "Singapore dollar"
+		"name": "Dólar de Singapur"
 	},
 	{
 		"id": "SEK",
-		"name": "Swedish krona"
+		"name": "Corona sueca"
 	},
 	{
 		"id": "CHF",
-		"name": "Swiss franc"
+		"name": "Franco suizo"
 	},
 	{
 		"id": "THB",
-		"name": "Thai baht"
+		"name": "Baht tailandés"
 	}
 ]
