@@ -35,12 +35,12 @@
                                 {/foreach}
                             </select>
                             <small class="form-text text-muted">* {Lang::T('This currency does not support decimals. If you pass a decimal amount, an error occurs.')}<br>
-                            {Lang::T('** This currency is supported as a payment currency and a currency balance for in-country PayPal
+                            ** This currency is supported as a payment currency and a currency balance for in-country PayPal
                             accounts only. If the receiver of funds is not from Brazil, then PayPal converts funds into the
                             primary holding currency of the account with the applicable currency conversion rate. The currency
                             conversion rate includes PayPal's applicable spread or fee.<br>
                             *** This currency is supported as a payment currency and a currency balance for in-country PayPal
-                            accounts only.')}</small>
+                            accounts only.</small>
                         </div>
                     </div>
 
